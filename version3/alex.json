@@ -1,0 +1,21 @@
+{
+"name":"Alex Petmecky",
+"userId":"48500366",
+"password":"uDDer74crispeD98donAtion",
+"days":"TuTh",
+"classCode":"2300",
+"term":"Spring 2022",
+"times":"8:00 am, 9:00 am",
+"course": "AERO",
+
+"courselist":[
+  {"cn":"WRTR","cc":"1313","startTime":["8:00 am","9:00 am"],"days":["TuTh"],"prof":["PROFNAME"],"negProf":["PROFNAME1"],"preference":["startTime","days","prof","negProf"]},
+  {"cn":"ARBC","cc":"2302","startTime":["10:00 am","8:00 am"],"days":["MoWeFr"],"negProf":["PROFNAME1"],"preference":["days","startTime","negProf"]},
+  {"cn":"MATH","cc":"1337","startTime":["10:00 am","8:00 am"],"days":["MoWeFr"],"prof":["PROFNAME"],"negProf":["PROFNAME1"],"preference":["days","startTime","negProf","prof"]}
+],
+"genPref":[
+  {"day":"Fr","latestTime":"1:00 pm"},
+  {"day":"all","earliestStart":"10:00 am"}
+]
+
+}
